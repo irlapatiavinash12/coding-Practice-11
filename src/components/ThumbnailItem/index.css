@@ -1,0 +1,21 @@
+/* Write your code here. */
+
+.list-styling {
+  list-style-type: none;
+  align-self: flex-start;
+}
+
+.button-styling{
+  height: 70px;
+  width: 70px;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+}
+
+.thumbNail-image-styling {
+  height: 60px;
+  width: 60px;
+  opacity: 0.5;
+  margin: 10px;
+}

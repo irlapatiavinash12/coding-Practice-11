@@ -1,0 +1,46 @@
+/* Write your code here. */
+
+.main-bg {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  padding: 20px;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.imageurl-styling {
+  height: 60%;
+  width: 100%;
+  border-radius: 20px;
+  border: none;
+  color: #1e293b;
+}
+
+.heading-styling {
+  color: #1e293b;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+
+.paragaraph-styling {
+  color: #64748b;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+
+.unordered-styling {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  list-style-type: none;
+}
